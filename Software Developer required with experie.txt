@@ -1,0 +1,3 @@
+Software Developer required with experience in Python, Django, REST API, and SQL.  
+Good knowledge of machine learning, data structures, and algorithms is preferred.  
+Familiarity with Git, Docker, and cloud computing is a plus.
